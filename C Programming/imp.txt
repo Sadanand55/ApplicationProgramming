@@ -1,0 +1,13 @@
+gcc first.c --save -remap -o myexe   (for windows all files )
+gcc first.c --save -temps -o myexe (for linux ......)
+
+
+cls --- clear all displays code (windows)
+clear --   ===                    (linux)
+ 
+
+
+//identifier specifer
+ decimal :  %d
+octal  :  %o
+hexadecimal : %x
